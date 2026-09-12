@@ -1,9 +1,0 @@
-{
-  "action": "navigate",
-  "args": {
-    "url": "https://www.youtube.com/watch?v=ff3RKieIcF4",
-    "newTab": true,
-    "group_title": "YouTube транскрипция"
-  },
-  "session": "yt-transcript"
-}
