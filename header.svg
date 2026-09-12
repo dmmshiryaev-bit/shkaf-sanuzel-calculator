@@ -19,28 +19,20 @@
         font-weight: 600;
         font-size: 18px;
       }
-      .word-gap {
-        font-size: 38px;
-        fill: transparent;
-      }
-      .subtitle-gap {
-        font-size: 18px;
-        fill: transparent;
-      }
     </style>
   </defs>
 
   <!-- ШКАФ ДЛЯ САНУЗЛА -->
-  <text x="400" y="55" text-anchor="middle">
+  <text xml:space="preserve" x="400" y="55" text-anchor="middle">
     <tspan class="title-letter" style="fill:#d4af37; animation-delay:0.00s">Ш</tspan>
     <tspan class="title-letter" style="fill:#c9a961; animation-delay:0.05s">К</tspan>
     <tspan class="title-letter" style="fill:#b8956a; animation-delay:0.10s">А</tspan>
     <tspan class="title-letter" style="fill:#a67c52; animation-delay:0.15s">Ф</tspan>
-    <tspan class="word-gap" dx="30"> </tspan>
+    <tspan class="title-letter" style="fill:transparent; animation-delay:0.20s">&#160;</tspan>
     <tspan class="title-letter" style="fill:#8b6f47; animation-delay:0.25s">Д</tspan>
     <tspan class="title-letter" style="fill:#7d6340; animation-delay:0.30s">Л</tspan>
     <tspan class="title-letter" style="fill:#6f5739; animation-delay:0.35s">Я</tspan>
-    <tspan class="word-gap" dx="30"> </tspan>
+    <tspan class="title-letter" style="fill:transparent; animation-delay:0.40s">&#160;</tspan>
     <tspan class="title-letter" style="fill:#53402b; animation-delay:0.45s">С</tspan>
     <tspan class="title-letter" style="fill:#453524; animation-delay:0.50s">А</tspan>
     <tspan class="title-letter" style="fill:#372a1d; animation-delay:0.55s">Н</tspan>
@@ -51,26 +43,26 @@
   </text>
 
   <!-- Мебель на заказ от производителя -->
-  <text x="400" y="100" text-anchor="middle">
+  <text xml:space="preserve" x="400" y="100" text-anchor="middle">
     <tspan class="subtitle-letter" style="fill:#8b7355; animation-delay:1.00s">М</tspan>
     <tspan class="subtitle-letter" style="fill:#846d52; animation-delay:1.04s">е</tspan>
     <tspan class="subtitle-letter" style="fill:#7d674f; animation-delay:1.08s">б</tspan>
     <tspan class="subtitle-letter" style="fill:#76614c; animation-delay:1.12s">е</tspan>
     <tspan class="subtitle-letter" style="fill:#6f5b49; animation-delay:1.16s">л</tspan>
     <tspan class="subtitle-letter" style="fill:#685546; animation-delay:1.20s">ь</tspan>
-    <tspan class="subtitle-gap" dx="15"> </tspan>
+    <tspan class="subtitle-letter" style="fill:transparent; animation-delay:1.22s">&#160;</tspan>
     <tspan class="subtitle-letter" style="fill:#614f43; animation-delay:1.24s">н</tspan>
     <tspan class="subtitle-letter" style="fill:#5a4940; animation-delay:1.28s">а</tspan>
-    <tspan class="subtitle-gap" dx="15"> </tspan>
+    <tspan class="subtitle-letter" style="fill:transparent; animation-delay:1.30s">&#160;</tspan>
     <tspan class="subtitle-letter" style="fill:#53433d; animation-delay:1.32s">з</tspan>
     <tspan class="subtitle-letter" style="fill:#4c3d3a; animation-delay:1.36s">а</tspan>
     <tspan class="subtitle-letter" style="fill:#453737; animation-delay:1.40s">к</tspan>
     <tspan class="subtitle-letter" style="fill:#3e3134; animation-delay:1.44s">а</tspan>
     <tspan class="subtitle-letter" style="fill:#372b31; animation-delay:1.48s">з</tspan>
-    <tspan class="subtitle-gap" dx="15"> </tspan>
+    <tspan class="subtitle-letter" style="fill:transparent; animation-delay:1.50s">&#160;</tspan>
     <tspan class="subtitle-letter" style="fill:#30252e; animation-delay:1.52s">о</tspan>
     <tspan class="subtitle-letter" style="fill:#291f2b; animation-delay:1.56s">т</tspan>
-    <tspan class="subtitle-gap" dx="15"> </tspan>
+    <tspan class="subtitle-letter" style="fill:transparent; animation-delay:1.58s">&#160;</tspan>
     <tspan class="subtitle-letter" style="fill:#221928; animation-delay:1.60s">п</tspan>
     <tspan class="subtitle-letter" style="fill:#1b1325; animation-delay:1.64s">р</tspan>
     <tspan class="subtitle-letter" style="fill:#1a1a2e; animation-delay:1.68s">о</tspan>
