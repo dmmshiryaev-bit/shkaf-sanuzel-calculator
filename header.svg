@@ -23,7 +23,7 @@
   </defs>
 
   <!-- ШКАФ ДЛЯ САНУЗЛА -->
-  <text xml:space="preserve" x="400" y="55" text-anchor="middle">
+  <text x="400" y="55" text-anchor="middle">
     <tspan class="title-letter" style="fill:#d4af37; animation-delay:0.00s">Ш</tspan>
     <tspan class="title-letter" style="fill:#c9a961; animation-delay:0.05s">К</tspan>
     <tspan class="title-letter" style="fill:#b8956a; animation-delay:0.10s">А</tspan>
@@ -43,7 +43,7 @@
   </text>
 
   <!-- Мебель на заказ от производителя -->
-  <text xml:space="preserve" x="400" y="100" text-anchor="middle">
+  <text x="400" y="100" text-anchor="middle">
     <tspan class="subtitle-letter" style="fill:#8b7355; animation-delay:1.00s">М</tspan>
     <tspan class="subtitle-letter" style="fill:#846d52; animation-delay:1.04s">е</tspan>
     <tspan class="subtitle-letter" style="fill:#7d674f; animation-delay:1.08s">б</tspan>
@@ -74,6 +74,7 @@
     <tspan class="subtitle-letter" style="fill:#324f5e; animation-delay:1.92s">и</tspan>
     <tspan class="subtitle-letter" style="fill:#365866; animation-delay:1.96s">т</tspan>
     <tspan class="subtitle-letter" style="fill:#3a616e; animation-delay:2.00s">е</tspan>
+    <tspan class="subtitle-letter" style="fill:#3e6a76; animation-delay:2.04s">л</tspan>
     <tspan class="subtitle-letter" style="fill:#3e6a76; animation-delay:2.04s">л</tspan>
     <tspan class="subtitle-letter" style="fill:#42737e; animation-delay:2.08s">я</tspan>
   </text>
